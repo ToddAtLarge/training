@@ -1,5 +1,5 @@
 # Training
-A quick reference to the training platforms I've used and enjoy.
+A quick reference to the training platforms I've used and enjoyed.
 
 
 ## General IT and Other
@@ -17,18 +17,6 @@ They offer free (some paid options available) college level courses from some of
 Offers courses in IT, cybersecurity, and other related content.  This is a subscription based platform with a limited free tier.
 
 
-
-## Hands-on
-[HackTheBox](https://app.hackthebox.com/)
-
-Hands-on hacking. They offer a free tier and paid subscriptions.  The academy is available as well, which offers guided learning experiences.  A subscription or "cube" purchasing required to access additional content as you progress.
-
-
-[TryHackMe](https://tryhackme.com)
-
-Hands-on hacking. They offer a free tier and paid subscriptions.  They offer learning paths to help guide your learning experience.
-
-
 [OverTheWire](https://overthewire.org/wargames)
 
 Free "wargames that will help you learn and practice security concepts".  This one is Linux based.
@@ -38,6 +26,17 @@ Free "wargames that will help you learn and practice security concepts".  This o
 
 Free "wargames that will help you learn and practice security concepts".  This one is Windows based (Powershell).
 
+
+
+## Hands-on Hacking
+[HackTheBox](https://app.hackthebox.com/)
+
+Hands-on hacking. They offer a free tier and paid subscriptions.  The academy is available as well, which offers guided learning experiences.  A subscription or "cube" purchasing required to access additional content as you progress.
+
+
+[TryHackMe](https://tryhackme.com)
+
+Hands-on hacking. They offer a free tier and paid subscriptions.  They offer learning paths to help guide your learning experience.
 
 
 ## Cybersecurity Focused
