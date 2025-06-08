@@ -79,3 +79,7 @@ Offers a ton of courses on various programming languages.
 [W3 Schools](https://www.w3schools.com/)
 
 Offers courses on web development and computer programming.  Most of it is free to use, and I've found the tutorials helpful when starting something new regarding programming languages.
+
+[BOOT.DEV](https://boot.dev) [Registration link](https://www.boot.dev?bannerlord=mealynetwork81) (Only provides a mythic chest, I don't receive any money if you decide to ssubscribe.)
+
+Currently has two paths, back-end developer using Pythong and Go, and backend-developer using Pythong and TypeScript.  It's gamified coding essentially, and can be quite additcting.  I've enjoyed my time on the platform.  This is a subscription based platform. 
